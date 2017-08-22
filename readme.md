@@ -9,7 +9,7 @@
 
 **Overview**
 
-This is a simple mortgage calcualtor for a fictional bank called the Maze Financial Services.
+This is a simple mortgage calcualtor for a fictional bank called the Maze Bank.
 
 ![mc1](https://user-images.githubusercontent.com/5299394/29577584-2dbfbc80-8729-11e7-975b-87e033c57060.PNG)
 
